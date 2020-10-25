@@ -1,5 +1,5 @@
 # Messenger-Message-Logger-Selenium
-Logs incoming messages, prints them to terminal and save to a file.
+Logs incoming messages, prints them to terminal and save to a file. No support for image message yet.
 
 # Before everything
 - Download selenium driver for your browser and keep it in the same folder.
